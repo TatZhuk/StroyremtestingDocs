@@ -37,5 +37,5 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-07-28 | 12:55 | Chrome 115.0.5790.102 Firefox 115.0.2|PASS|Safari |PASS |16.06.23|Мария |
 | 2023-08-27 | 16:20 |Chrome 116.0.5845.111 Yandex 23.7.3.824 |PASS |Chrome 116.0.5845.93  | PASS | 27.08.23 | Наталья К. | 
-|2023-09-06 | 14:40| Chrome 116.0.5845.141 Firefox 117.0|FAIL https://trello.com/c/0VssmyaG/204 |Chrome 116.0.5845.163 Android 10 |FAIL https://trello.com/c/0VssmyaG/204 |03.09.23 |Татьяна |
+|2023-09-06 | 14:40| Chrome 116.0.5845.141 Firefox 117.0|PASS |Chrome 116.0.5845.163 Android 10 |PASS |03.09.23 |Татьяна |
 |  |  |  |  |  |  |  |  |
