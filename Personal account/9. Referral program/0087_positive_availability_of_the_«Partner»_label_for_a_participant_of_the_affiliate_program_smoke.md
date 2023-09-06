@@ -18,10 +18,10 @@
 Тестовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA  |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 26.07.23 | 18:30 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/E2oTQHMA | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/E2oTQHMA | 16.06.23 | Надежда |  
+| 26.07.23 | 18:30 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/E2oTQHMA/280 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/E2oTQHMA/280 | 16.06.23 | Надежда |  
 
 Продовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 26.07.23 | 18:35 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/E2oTQHMA | Chrome версия 115.0.5790.171 MIUI 12.5.13 | FAIL https://trello.com/c/E2oTQHMA | 16.06.23 | Надежда | 
-| 22.08.23 | 20:40 | Yandex версия 23.7.3.824  Microsoft Edge версия 115.0.1901.203 | FAIL https://trello.com/c/E2oTQHMA  | Chrome версия 115.0.5790.168 Samsung Galaxy A50 | FAIL https://trello.com/c/E2oTQHMA  | 13.08.23 | Наталья К. |  
+| 26.07.23 | 18:35 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/E2oTQHMA/280 | Chrome версия 115.0.5790.171 MIUI 12.5.13 | FAIL https://trello.com/c/E2oTQHMA/280 | 16.06.23 | Надежда | 
+| 22.08.23 | 20:40 | Yandex версия 23.7.3.824  Microsoft Edge версия 115.0.1901.203 | FAIL https://trello.com/c/E2oTQHMA/280  | Chrome версия 115.0.5790.168 Samsung Galaxy A50 | FAIL https://trello.com/c/E2oTQHMA/280  | 13.08.23 | Наталья К. |  

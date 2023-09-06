@@ -19,10 +19,10 @@
 Тестовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA  |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 27.07.23 | 13:03 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | SKIPPED https://trello.com/c/a13lTPIJ | Chrome версия 114.0.5735.196 MIUI 12.5.13 | SKIPPED https://trello.com/c/a13lTPIJ | 16.06.23 | Надежда |  
+| 27.07.23 | 13:03 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | SKIPPED https://trello.com/c/a13lTPIJ/261 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | SKIPPED https://trello.com/c/a13lTPIJ/261 | 16.06.23 | Надежда |  
 
 Продовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 27.07.23 | 13:08 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | SKIPPED https://trello.com/c/a13lTPIJ | Chrome версия 115.0.5790.171 MIUI 12.5.13 | SKIPPED https://trello.com/c/a13lTPIJ | 16.06.23 | Надежда |
-| 22.08.23 | 21:00 | Yandex версия 23.7.3.824  Microsoft Edge версия 115.0.1901.203 | SKIPPED https://trello.com/c/a13lTPIJ | Chrome версия 115.0.5790.168 Samsung Galaxy A50 | SKIPPED https://trello.com/c/a13lTPIJ | 13.08.23 | Наталья К. |  
+| 27.07.23 | 13:08 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | SKIPPED https://trello.com/c/a13lTPIJ/261 | Chrome версия 115.0.5790.171 MIUI 12.5.13 | SKIPPED https://trello.com/c/a13lTPIJ/261 | 16.06.23 | Надежда |
+| 22.08.23 | 21:00 | Yandex версия 23.7.3.824  Microsoft Edge версия 115.0.1901.203 | SKIPPED https://trello.com/c/a13lTPIJ/261 | Chrome версия 115.0.5790.168 Samsung Galaxy A50 | SKIPPED https://trello.com/c/a13lTPIJ/261 | 13.08.23 | Наталья К. |  
