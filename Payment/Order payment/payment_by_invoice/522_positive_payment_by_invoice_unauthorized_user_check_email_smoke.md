@@ -5,7 +5,7 @@
 1. Войти в почту: email: teststroy1@mail.ru, pass : pass2023!
 На сайте:
 2. В поле "Поиск" ввести "Шуруп"
-3. Нажать "Найти"
+3. Нажать "Найти"/ "Перейти к товарам" (тач)
 4. Нажать кнопку "В корзину" на одном из шурупов
 5. Нажать на кнопку "Корзина"
 6. Нажать "Перейти к оформлению"
@@ -56,3 +56,4 @@
 | 1   | 2023-07-28 | 11:36 |Chrome 115.0.5790.102/Firefox 115.0.2 | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | Safari                            | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | 04.07 | Мария  |
 | 2   | 2023-08-21 | 08:20 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | Chrome 116.0.5845.97               | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l | 13.08 | Сабина  |
 | 3   | 2023-08-27 | 21:35 |Chrome 116.0.5845.97 Yandex 23.7.3.823| FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l / https://trello.com/c/v7EbNrHv | Chrome 116.0.5845.97               | FAIL https://trello.com/c/Pk7Yag5H / https://trello.com/c/ouWq9d2l / https://trello.com/c/v7EbNrHv| 27.08 | Сабина  |
+| 4   | 2023-09-06 | 18:40 | Chrome 116.0.5845.180 Yandex 23.7.4.971 | SKIP https://trello.com/c/Pk7Yag5H/206 |Samsung Galaxy A50/Chrome 116.0.5845.163  | SKIP https://trello.com/c/Pk7Yag5H/206 | 03.09.23 | Наталья К. |
